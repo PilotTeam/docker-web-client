@@ -1,7 +1,7 @@
 ![alt text](Docker-Web-Client_Github.png)
 
 Оперативно поднять **Pilot- Web- Client** , подключенный к **Pilot- Server** , можно с помощью [готового контейнера](https://cloud.docker.com/u/pilotdev/repository/docker/pilotdev/web-client) Docker. Решение является кроссплатформенным, поэтому Pilot-Server и Web-Client могут быть установлены как на Windows так и на Linux в любой комбинации.  
-Для начала необходим установленный **Docker и рабочий** Pilot-Server, подключенный к базе данных.
+Для начала необходим установленный **Docker** и рабочий **Pilot-Server**, подключенный к базе данных.
 # Установка Docker
 Для установки на Windows [загрузите](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe) c официального сайта **docker.com** дистрибутив и запустите его.  
 Для установки на Linux перейдите по [ссылке](https://hub.docker.com/search?q=&type=edition&offering=community) и выберите дистрибутив, затем установите **Docker** согласно специфичным для дистрибутива инструкциям. Например, руководство по установке для **Ubuntu Linux** находится [здесь](https://docs.docker.com/engine/install/ubuntu/).
